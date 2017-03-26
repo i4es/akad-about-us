@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="23" viewBox="0 0 12 23">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: Ionicons;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="responisve.svg" class="cls-1" x="-13.5" y="-4.001"><tspan x="-13.5"></tspan></text>
+</svg>
